@@ -7,7 +7,7 @@
 <p>Click on this link to play - https://fionaseahshuhui.github.io/Word-Guessing-Game/</p>
 
 <h2>Screenshots</h3>
-![image](https://user-images.githubusercontent.com/118295100/223409934-b3656680-875d-44ec-8058-070e8e84d895.png)
+<img width="960" alt="Screenshot" src="https://user-images.githubusercontent.com/118295100/223419889-bc9f446e-bab8-4665-aab2-d4bd34b6a1f7.png">
 
 <h2>Future Development</h3>
 <table>
