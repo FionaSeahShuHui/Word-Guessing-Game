@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
+  color: #00539cff;
 }
 
 body {
@@ -10,7 +11,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-color: #1bb295;
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/90/853/287/gradient-pink-shades-background-wallpaper-preview.jpg");
 }
 
 .wrapper {
@@ -46,11 +47,11 @@ body {
   height: 45px;
   width: 40px;
   margin: 3px;
-  border: 1px solid #b5b5b5;
+  border: 1.3px solid #00539cff;
   background: none;
   font-size: 30px;
-  font-weight: 500;
-  color: #1bb295;
+  font-weight: 700;
+  color: #00539cff;
   text-align: center;
   text-transform: capitalize;
 }
@@ -68,8 +69,17 @@ body {
   margin-bottom: 10px;
 }
 
+.content .details .hint span {
+  font-weight: 600;
+}
+
+.content .details .guesses span {
+  font-weight: 600;
+}
+
 .content .details .wrong span {
   text-transform: capitalize;
+  font-weight: 600;
 }
 
 .content .restartButton {
@@ -79,7 +89,8 @@ body {
   border: none;
   font-size: 17px;
   padding: 15px 0;
-  background-color: #1bb295;
+  font-weight: 600;
+  background-color: #00539cff;
   border-radius: 5px;
   color: white;
 }
