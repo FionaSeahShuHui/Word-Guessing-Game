@@ -12,6 +12,8 @@ body {
   justify-content: center;
   min-height: 100vh;
   background-image: url("https://c4.wallpaperflare.com/wallpaper/90/853/287/gradient-pink-shades-background-wallpaper-preview.jpg");
+  background-repeat: no-repeat;
+  background-size: 1500px 1500px;
 }
 
 .wrapper {
