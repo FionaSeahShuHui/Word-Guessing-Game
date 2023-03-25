@@ -14,16 +14,19 @@
   <tr>
     <td>S/N</td>
     <td>Problems</td>
+    <td>Description</td>
     <td>Suggestions</td>
   </tr>
   <tr>
     <td>01</td>
     <td>Game could not be played using devices without in build keyboard</td>
+    <td>User could not enter in a random letter of their choice due to not having keyboard on the interface</td>
     <td>Implement an in game keyboard</td>
   </tr>
   <tr>
     <td>02</td>
     <td>Colour Combination</td>
+    <td>Users felt that the background color is too bright and distracting</td>
     <td><li>Do more research on the types of colour combination I can use
     <li>Implement a function that can allow the user to choose the color scheme that he/she wants to use</td>
   </tr>
